@@ -41,6 +41,8 @@ To reserved _K_ number of seats, the current available best _K_ seats are determ
 
 
 ## Building and Testing
+I tested this on Windows 2008 R2, with Gradle 4.4.1 and Java 1.8.0_151.
+
 1. To build the project: ```gradle build```
 2. To run the project (the main driver): ```gradle run```
 3. To run the junit tests: ```gradle clean test```
